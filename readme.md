@@ -23,11 +23,11 @@ This project is part of my university coursework in the field of Internet of Thi
 This project was developed by a team of two:
 
 1. [Kavarera](https://github.com/Kavarera)
-    - Role: Android Application Developer
+    - Role: Android Application Developer, IoT Engineer, Firebase Engineer
     - Contact: 123210131@student.upnyk.ac.id
 
 2. [fchzo08](https://github.com/fchzo08)
-    - Role: IoT Device Firmware Developer
+    - Role: IoT Engineer, Firebase Engineer, Android Engineer
     - Contact: 123210144@student.upnyk.ac.id
 
 This project demonstrates the integration of various technologies to create a versatile and user-friendly IoT system for controlling lights. Feel free to explore the code and contribute to its development!
