@@ -110,37 +110,6 @@ class MainActivity : AppCompatActivity() {
 
 
     }
-
-//    private fun setLampuStatus(switchValue: Int) {
-//        val deviceId = binding.etDeviceId.text.toString()
-//        if(binding.etDeviceId.text.toString()!=""){
-//            firebase = FirebaseDatabase.getInstance().getReference("deviceconfig")
-//            firebase = firebase.child(deviceId)
-//            firebase.child("lampu").setValue(switchValue)
-//                .addOnSuccessListener {
-//                    Log.d("testing","berhasil")
-//                }
-//                .addOnFailureListener {
-//                    Log.d("testing","gagal : $it")
-//                }
-//        }
-//    }
-//
-//    private fun setSensor(isChecked:Int) {
-//        val deviceId = binding.etDeviceId.text.toString()
-//        if(binding.etDeviceId.text.toString()!=""){
-//            firebase = FirebaseDatabase.getInstance().getReference("deviceconfig")
-//            firebase = firebase.child(deviceId)
-//            firebase.child("sensor").setValue(isChecked)
-//                .addOnSuccessListener {
-//                    Log.d("testing","berhasil")
-//                }
-//                .addOnFailureListener {
-//                    Log.d("testing","gagal : $it")
-//                }
-//
-//        }
-//    }
 }
 
 data class LogItem(val date: String, val randomKey: String, val text: String)
