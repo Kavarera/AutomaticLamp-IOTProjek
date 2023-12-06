@@ -33,7 +33,7 @@ This project was developed by a team of two:
    - Contact: 123210131@student.upnyk.ac.id
 
 2. [fchzo08](https://github.com/fchzo08)
-   - Role: IoT Engineer, Firebase Engineer, Android Engineer
+   - Role: IoT Engineer, Firebase Engineer, Android Application Developer
    - Contact: 123210144@student.upnyk.ac.id
 
 This project demonstrates the integration of various technologies to create a versatile and user-friendly IoT system for controlling lights. Feel free to explore the code and contribute to its development!
