@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IOTTugasAkhir</string>
+    <string name="device_id">Device ID</string>
+    <string name="input_device_id">Input Device Id</string>
+    <string name="sensor">Sensor</string>
+    <string name="status_lampu">status lampu</string>
+    <string name="datetime">DATETIME</string>
+    <string name="lampu_nyala">Lampu Nyala</string>
+    <string name="set_timer_mati">Set Timer Mati</string>
+    <string name="set_timer_hidup">Set Timer Hidup</string>
+    <string name="log">LOG LIST</string>
+</resources>
