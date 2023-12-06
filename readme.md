@@ -18,16 +18,22 @@ This project is part of my university coursework in the field of Internet of Thi
 - PIR Sensor: Passive Infrared Sensor for motion detection.
 - LCD I2C 16x2: Liquid Crystal Display for visual output.
 
+## System Requirements
+
+This Android application is designed to run on devices with a minimum SDK version of 34 (Android R/11). Please ensure that your device meets the following requirements:
+
+- **Android Minimum SDK:** 34 (Android R/11)
+
 ## Developers
 
 This project was developed by a team of two:
 
 1. [Kavarera](https://github.com/Kavarera)
-    - Role: Android Application Developer, IoT Engineer, Firebase Engineer
-    - Contact: 123210131@student.upnyk.ac.id
+   - Role: Android Application Developer, IoT Engineer, Firebase Engineer
+   - Contact: 123210131@student.upnyk.ac.id
 
 2. [fchzo08](https://github.com/fchzo08)
-    - Role: IoT Engineer, Firebase Engineer, Android Engineer
-    - Contact: 123210144@student.upnyk.ac.id
+   - Role: IoT Engineer, Firebase Engineer, Android Engineer
+   - Contact: 123210144@student.upnyk.ac.id
 
 This project demonstrates the integration of various technologies to create a versatile and user-friendly IoT system for controlling lights. Feel free to explore the code and contribute to its development!
